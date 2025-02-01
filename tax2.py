@@ -13,7 +13,7 @@ st.header("Ask Your Tax & Bookkeeping Questions")
 # 1. Create/OpenAI chat model with your desired temperature
 chat_model = ChatOpenAI(
     temperature=0.5,
-    openai_api_key="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"
+    openai_api_key=""
 
 )
 
